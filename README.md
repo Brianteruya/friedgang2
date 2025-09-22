@@ -12,6 +12,6 @@ probably
 [totally just letters 2](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/Screenshot%202021-02-03%20160829.jpg)
 
 **meme filler**
-[title](https://www.example.com)
-[title](https://www.example.com)
-[title](https://www.example.com)
+[notsoverychillguy](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/mern.png)
+[idk](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/taump.jpg)
+[shredded4sins](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/obama%20picture.jpg)
