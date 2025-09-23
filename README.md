@@ -13,7 +13,7 @@ probably
 
 ## meme filler
 <ul> 
-  <li>[notsoverychillguy](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/mern.png)
-  <li>[idk](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/taump.jpg)
-  <li>[shredded4sins](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/obama%20picture.jpg)
+  <li> ![image 1](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/mern.png)
+  <li> ![image 2](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/taump.jpg)
+  <li> ![image 3](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/obama%20picture.jpg)
 </ul>
