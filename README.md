@@ -12,6 +12,8 @@ probably
 <br>[i dunno lmao](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/Screenshot%202021-02-03%20160829.jpg)
 
 ## meme filler
-<br>[notsoverychillguy](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/mern.png)
-<br>[idk](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/taump.jpg)
-<br>[shredded4sins](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/obama%20picture.jpg)
+<ul> 
+  <li>[notsoverychillguy](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/mern.png)
+  <li>[idk](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/taump.jpg)
+  <li>[shredded4sins](https://raw.githubusercontent.com/Brianteruya/friedgang2/refs/heads/main/obama%20picture.jpg)
+</ul>
