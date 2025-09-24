@@ -1,13 +1,15 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Dice Roller</title>
   <style>
-    h1{
+    h1 {
       font-family: sans-serif;
     }
+
     /* https://www.w3schools.com/csS/css3_buttons.asp */
     button {
       background-color: #04AA6D;
@@ -20,12 +22,28 @@
       font-size: 16px;
     }
 
-    #btn10{
+    #btn10 {
       background-color: #008CBA;
     }
-    
-    #btn20{
+
+    #btn20 {
       background-color: #f44336;
+    }
+
+    #btn4 {
+      background-color: #BA55D3;
+    }
+
+    #btn8 {
+      background-color: #000080;
+    }
+
+    #btn12 {
+      background-color: #FF4500;
+    }
+
+    #btn100 {
+      background-color: #DAA520;
     }
 
     button:hover {
@@ -33,12 +51,19 @@
     }
   </style>
 </head>
+
 <body>
   <h1>Dice Roller!</h1>
   <div>
+    <button id="btn4">D4</button>
     <button id="btn6">D6</button>
+    <button id="btn8">D8</button>
     <button id="btn10">D10</button>
+    <button id="btn12">D12</button>
     <button id="btn20">D20</button>
+    <button id="btn100">D100</button>
+
+
   </div>
 
   <hr>
@@ -47,9 +72,9 @@
   <script>
     // We are putting the <script> tag at the bottom to make sure that 
     // the HTML page has loaded before we start trying to hook up button events
-    
+
     // The following code is loaded in once, when the HTML page first loads
-    
+
     function showRandomInt(min, max) {
       min = Math.ceil(min);
       max = Math.floor(max);
@@ -57,17 +82,31 @@
       numberSpan.innerHTML = number;
     }
 
-    btn6.onclick = function(){
+    btn6.onclick = function () {
       showRandomInt(1, 6);
     };
 
-    btn10.onclick = function(){
+    btn10.onclick = function () {
       showRandomInt(1, 10);
     };
 
-    btn20.onclick = function(){
+    btn20.onclick = function () {
       showRandomInt(1, 20);
     };
+    btn4.onclick = function () {
+      showRandomInt(1, 4);
+    };
+    btn8.onclick = function () {
+      showRandomInt(1, 8);
+    };
+    btn12.onclick = function () {
+      showRandomInt(1, 12);
+    };
+    btn100.onclick = function () {
+      showRandomInt(1, 100);
+    };
+
   </script>
 </body>
+
 </html>
